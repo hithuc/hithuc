@@ -1,5 +1,5 @@
 - 🔭 Working on: Haskell skills and Sustainable Urban Farming/Gardening
-- 🌱 Learning: Haskell on Glasgow Uni MOOC and frontend basics - interested in imba https://imba.io/ 
+- 🌱 Learning: Haskell on Glasgow Uni MOOC + frontend basics Purescript, SQLite
 - 👯 Looking to collaborate on socially constructive Crypto projects
 - 🤔 I’m looking for help with Haskell😄 and Plutus
 - 💬 Ask me about ABAP Design Patterns and why I left SAPWorld
