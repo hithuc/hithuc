@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on getting Haskell skills and promoting Sustainable Urban Farming projects locally
-- 🌱 I’m currently learning Haskell on the Glasgow Uni MOOC and frontend basics including imba https://imba.io/ 
-- 👯 I’m looking to collaborate on socially cnstructive Crypto projects
+- 🔭 Working on: Haskell skills and Sustainable Urban Farming/Gardening
+- 🌱 Learning: Haskell on Glasgow Uni MOOC and frontend basics - interested in imba https://imba.io/ 
+- 👯 Looking to collaborate on socially constructive Crypto projects
 - 🤔 I’m looking for help with Haskell😄 and Plutus
 - 💬 Ask me about ABAP Design Patterns and why I left SAPWorld
 - 📫 How to reach me: kumarbiswas7@gmail.com
+- 🏕️  North Wales, UK
+
 - 😄 Pronouns: 
 - ⚡ Fun fact:
-- 🏕️  North Wales, UK
